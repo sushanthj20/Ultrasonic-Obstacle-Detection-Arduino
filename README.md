@@ -1,3 +1,6 @@
+![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Ultrasonic Obstacle Detection Arduino
 
 An Arduino Uno R4 Minima project that uses the **HC-SR04 Ultrasonic Sensor** to detect nearby obstacles and an **Active Buzzer** to provide rhythmic alerts when an object is within **10 cm**.
